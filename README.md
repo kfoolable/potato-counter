@@ -1,4 +1,4 @@
-# cMLr3asK
+# Scrimba Activity - Potato Counter
 
 ## About Scrimba
 
